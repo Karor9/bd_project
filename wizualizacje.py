@@ -11,7 +11,7 @@ db_config = {
     'host': 'localhost',
     'user': 'root',
     'passwd': '',
-    'db': 'liga_pilkarska'
+    'db': 'liga_pilkarska2'
 }
 
 sql_query = "CALL PokazStatystyki()"

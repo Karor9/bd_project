@@ -6,7 +6,7 @@ import time
 db_host = 'localhost'
 db_user = 'root'
 db_password = ''
-db_name = 'liga_pilkarska'
+db_name = 'liga_pilkarska2'
 
 csv_file_path_team = 'bzid_data/teams.csv'
 csv_file_path_player = 'bzid_data/players.csv' 
